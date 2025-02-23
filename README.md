@@ -10,6 +10,6 @@ LIVE BITCOIN PRICE:
 HISTORIC DATA:
 ![image](https://github.com/user-attachments/assets/23a7e91a-4814-473b-92f0-bb6fff7a3ea5)
 
-FORECASTE :
+FORECAST :
 ![image](https://github.com/user-attachments/assets/6e542003-ec87-4c8e-b52f-20599ef1982f)
 ![image](https://github.com/user-attachments/assets/59a3281b-7e91-47c9-83f5-07b77ae28a57)
